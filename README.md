@@ -70,6 +70,7 @@ Developed by **Eugene Gakpo Alhassan**.
 
 ## Licensing
 
-Community Edition distribution terms are being finalized separately from the private engineering source code.
+DAMS Community Edition is distributed under the Community Edition license included in this repository.
 
-This public distribution repository does not publish the private DAMS source code.
+The private DAMS engineering source code is not included in this public distribution repository and is not licensed as open-source software by this repository.
+
