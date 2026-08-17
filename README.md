@@ -70,7 +70,7 @@ The core Community workflow does not require users to upload their personal medi
 
 The primary Community workflow focuses on:
 
-**Discover â†’ Analyse â†’ Understand â†’ Review**
+**Discover -> Analyse -> Understand -> Review**
 
 Users should maintain appropriate backups before making independent changes to valuable media libraries.
 
